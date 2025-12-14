@@ -100,6 +100,12 @@ gcc code.c -o binary_file
 * **Name:** Ansh Shukla
 * **GitHub:** [https://github.com/ujjwal031shukla-svg](https://github.com/ujjwal031shukla-svg)
 
+* <img width="487" height="840" alt="Output1" src="https://github.com/user-attachments/assets/9a82c766-8544-4de8-8f21-d4581a843cd3" />
+
+* <img width="610" height="264" alt="Screenshot 2025-12-14 094207" src="https://github.com/user-attachments/assets/2df5c041-bee4-43b5-9973-77938d3db8f5" />
+
+
+
 ---
 
 ## 📄 License
