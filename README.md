@@ -50,7 +50,7 @@ binary-file-handling-c/
 ### Compile
 
 ```bash
-gcc main.c -o binary_file
+gcc code.c -o binary_file
 ```
 
 ### Run
